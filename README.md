@@ -1,3 +1,3 @@
 # Osoftpay OpenCart Payment Extension
 
-This is the osoftpay OpenCart payment extension.
+This is the osoftpay OpenCart payment extension, written in PHP
